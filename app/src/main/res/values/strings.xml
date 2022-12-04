@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPS_apgreid</string>
+    <string name="dialog_title_start">Начало пути</string>
+    <string name="dialog_button_start">Готово</string>
+    <string name="dialog_title_finish">Конец пути</string>
+    <string name="dialog_button_finish">Готово</string>
+
+    <string name="dialog_title_ogr">Ограничение</string>
+    <string name="dialog_button_Ogr">Готово</string>
+
+    <string name="dialog_title_ogr1">Ограничение</string>
+    <string name="dialog_button_Ogr1">Готово</string>
+
+    <string name="dialog_title_ogr2">Ограничение</string>
+    <string name="dialog_button_Ogr2">Готово</string>
+
+    <string name="dialog_title_proba1">Проба тормозов</string>
+    <string name="dialog_button_proba1">Готово</string>
+
+    <string name="text_empty">Вы не ввели значение</string>
+    <string name="saved">Сохранено</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/drawable-anydpi/Knopka_save.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/drawable-anydpi/save_icon_name.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_finish.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_ogr.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_ogr1.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_ogr2.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_proba1.xml" value="0.3555253623188406" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/dialog_layout_start.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/item_list_layout.xml" value="0.3555253623188406" />
+        <entry key="..\:/AndroidStudioProjects/GPS_apgreid/app/src/main/res/layout/item_list_layout_speed.xml" value="0.35688405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
