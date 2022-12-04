@@ -182,6 +182,7 @@ public class MainActivity extends AppCompatActivity implements LocListenerInterf
 
         checkPermissions();
     }
+    //123
 
     private void setDistanceStart(String disStart)
     {
